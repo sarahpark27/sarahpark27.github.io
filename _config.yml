@@ -2,14 +2,13 @@
 #
 
 # Site settings
-title: Spectral
+title: Sarah Park
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+  Service Analyst
+  서비스 운영 및 분석
+owner: Dayoung Park
+first_published: 2020-09-23
+email: dayoung3459@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
